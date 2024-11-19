@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trixey-mixey
-- 💻 Front-End development, web dev
+- 💻 Backend development, Golang
 - 📫 TG: @trixeymixey
 
 <!---
